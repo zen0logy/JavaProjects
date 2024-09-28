@@ -1,3 +1,4 @@
+```
 ▒███████▒▓█████  ███▄    █  ██▓     ▒█████    ▄████▓██   ██▓
 ▒ ▒ ▒ ▄▀░▓█   ▀  ██ ▀█   █ ▓██▒    ▒██▒  ██▒ ██▒ ▀█▒▒██  ██▒
 ░ ▒ ▄▀▒░ ▒███   ▓██  ▀█ ██▒▒██░    ▒██░  ██▒▒██░▄▄▄░ ▒██ ██░
@@ -7,9 +8,8 @@
 ░░▒ ▒ ░ ▒ ░ ░  ░░ ░░   ░ ▒░░ ░ ▒  ░  ░ ▒ ▒░   ░   ░ ▓██ ░▒░ 
 ░ ░ ░ ░ ░   ░      ░   ░ ░   ░ ░   ░ ░ ░ ▒  ░ ░   ░ ▒ ▒ ░░  
   ░ ░       ░  ░         ░     ░  ░    ░ ░        ░ ░ ░     
-░                                                   ░ ░     
-                               
-
+░                                                   ░ ░                             
+```
 Welcome to JavaProjects by Zen (zen0logy)!
 
 This repository contains all of my Java projects, showcasing my journey and progress in programming. 
